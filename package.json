@@ -1,0 +1,15 @@
+{
+  "name": "exp-template",
+  "version": "1.0.0",
+  "description": "Template of Express Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Martial Ahadji",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
